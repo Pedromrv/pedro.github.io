@@ -31,6 +31,9 @@ html {
 .icons-social i {
 	font-size: 3em;
 }
+.tech i {
+	font-size: 3em;
+}
 
 /* Custom Styles */
 
@@ -58,6 +61,9 @@ main > .tagline {
 .icons-social i {
 	padding: 10px;
 }
+.tech i {
+	 padding: 10px;
+ }
 
 .devto {
 	margin-bottom: -0.20rem;
